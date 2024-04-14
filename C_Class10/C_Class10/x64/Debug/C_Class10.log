@@ -1,0 +1,3 @@
+﻿  C_Class10.cpp
+C:\Users\user\Desktop\미모2기 이호영\Cospro2 C 준비\C_Class10\C_Class10\C_Class10.cpp(12,7): warning C4101: 'ch' :참조되지 않은 지역 변수입니다.
+  C_Class10.vcxproj -> C:\Users\user\Desktop\미모2기 이호영\Cospro2 C 준비\C_Class10\x64\Debug\C_Class10.exe
